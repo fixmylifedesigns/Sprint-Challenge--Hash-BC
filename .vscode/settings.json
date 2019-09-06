@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "/Users/briandoyle/.local/share/virtualenvs/sc-hash-bc-student-HSwDRd-G/bin/python"
+    "python.pythonPath": "/Users/briandoyle/.local/share/virtualenvs/sc-hash-bc-student-HSwDRd-G/bin/python",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#41204A",
+        "titleBar.activeBackground": "#5B2D67",
+        "titleBar.activeForeground": "#FDFCFE"
+    }
 }

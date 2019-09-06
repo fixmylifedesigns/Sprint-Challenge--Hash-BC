@@ -39,5 +39,7 @@ def print_answer(answer):
         print("None")
 
 
+weights_1 = [9]
 weights_4 = [12, 6, 7, 14, 19, 3, 0, 25, 40]
+print(get_indices_of_item_weights(weights_1, 1, 9))
 print(get_indices_of_item_weights(weights_4, 9, 7))
